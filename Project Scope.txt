@@ -1,0 +1,28 @@
+Project name : AI Tutor system
+Motivation : given the increasing demand for personalized education and the limitations of traditional tutoring,
+             an AI powered virtualn tutoring system could offer a scalable and effective solution.
+Objective : to create an AI powered virtual tutoring system that helps users learn specific subjects by answering
+             questions, providing personalized learning plans, intelligent tutoring, adaptive learning, and providing 
+              personalized- recommendations.
+Features :  1. personalized learning plans  - analyze stydent perfomance data to identify stregths, weaknessess and learning gaps
+                                            - taylor plans to individuals needs adjusting pace and difficulty level accordingly
+            2. intelligent tutoring - use natural languageprocessing to understand students questions and provide clear and concise instructions
+                                    - employ machine learning algorithms to generate practice problems and questions that align with stydents learning objectives.
+                                    - provide realtime feedback on students responses highligting errors and suggesting corrections
+            3. adaptive learning - continously monitoring students progress, adjust the learning material and pace to optimize learning outscomes
+                                 - use reinforcment learning techniques to personalize tutoring experience and maximize students engagement 
+Technical implimentation : - frontend
+                           - backend
+                           - natural language processing 
+                           - machine learning
+                           - data storage
+Target subjects :- math
+                - low level programming language processing 
+Target users : Anyone interested in learning
+Team members: Justin Enyeribe - ML Engineer
+              Kent Lewa - NLP Engineer      
+              Foncie Nkirote - front end dev 
+              Alvin Mithamo - front end dev
+              Charity Gichohi - front end dev 
+              Brenda Chepkorir - Project Manager
+              Lee Ochieng - backend dev                                                                                         
