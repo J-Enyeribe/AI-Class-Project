@@ -25,4 +25,5 @@ Team members: Justin Enyeribe - ML Engineer
               Alvin Mithamo - front end dev
               Charity Gichohi - front end dev 
               Brenda Chepkorir - Project Manager
-              Lee Ochieng - backend dev                                                                                         
+              Lee Ochieng - backend dev
+              Madeline Koina - backend dev                                                                                         
